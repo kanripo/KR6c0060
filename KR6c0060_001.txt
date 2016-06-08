@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:09.662427
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:49
 #+TITLE: 金剛經偈釋
 #+PROPERTY: CBETA_ID X25n0472
 #+PROPERTY: ID KR6c0060
@@ -22,51 +22,51 @@ No.472¶
 
 #+BEGIN_VERSE
 「　此經文句義次第
-　世無明慧不能解
+　世無明慧不能解」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　法門句義及次第
-　世間不解離明慧
+　世間不解離明慧」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　稽首於此教我等
-　無邊功德所生身
+　無邊功德所生身」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　大智通達教我等
-　歸命無量功德身
+　歸命無量功德身」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　具如斯德應禮敬
-　彼之足跡頂戴持
+　彼之足跡頂戴持」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　應當敬彼如是等
-　頭面禮足而頂戴
+　頭面禮足而頂戴」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　覺轅難駕彼能乘
-　要心普利諸含識
+　要心普利諸含識」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　以能荷佛難勝事
-　攝受眾生利益故
+　攝受眾生利益故」
 #+END_VERSE
-」¶
+¶
 
 偈曰。¶
 

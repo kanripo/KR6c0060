@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:09.695298
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:49
 #+TITLE: 金剛經偈釋
 #+PROPERTY: CBETA_ID X25n0472
 #+PROPERTY: ID KR6c0060
@@ -512,27 +512,27 @@
 
 #+BEGIN_VERSE
 「　由斯諸佛希有法
-　陀羅尼句義深邃
+　陀羅尼句義深邃」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　諸佛希有總持法
-　不可稱量深句義
+　不可稱量深句義」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　從尊決已義廣開
-　獲福令生速清淨
+　獲福令生速清淨」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　從尊者聞及廣說
-　迴此福德施羣生
+　迴此福德施羣生」
 #+END_VERSE
-」
+
 <pb:KR6c0060_X_002-0054c>¶
 
 【曾鳳儀曰。此偈乃彌勒菩薩授之無著。無著授之¶
